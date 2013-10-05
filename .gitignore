@@ -1,3 +1,9 @@
+/.gradle/1.7/taskArtifacts/cache.properties
+/.gradle/1.7/taskArtifacts/cache.properties.lock
+/.gradle/1.7/taskArtifacts/fileHashes.bin
+/.gradle/1.7/taskArtifacts/fileSnapshots.bin
+/.gradle/1.7/taskArtifacts/outputFileStates.bin
+/.gradle/1.7/taskArtifacts/taskArtifacts.bin
 # built application files
 *.apk
 *.ap_
