@@ -3,7 +3,7 @@
 ##############################################################################
 
 cmake_minimum_required(VERSION 2.8.3)
-project(asctec_android_driver)
+project(asctec_ros_android)
 
 ##############################################################################
 # Catkin
