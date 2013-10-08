@@ -23,13 +23,12 @@
    save continually updating these references, but avoid applying
    the same principle to api breaking minor changes in the version.
 */
-/*
+
 dependencies {
-  compile project(':local_android_library_dependency')
-  compile 'org.ros.android_core:android_gingerbread_mr1:0.1.+'
-  compile 'com.github.ros_java.android_extras:gingerbread:0.1.+'
+  compile project(':autopilot_driver')
+
 }
-*/
+
 
 apply plugin: 'android'
 
