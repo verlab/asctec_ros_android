@@ -6,9 +6,9 @@
 
     <uses-sdk android:minSdkVersion="10" />
 
-    <application android:label="autopilot_msg_gerated" >
+    <application android:label="autopilot_msg_gen" >
         <activity android:name="ACTIVITY_ENTRY_NAME"
-            android:label="autopilot_msg_gerated">
+            android:label="autopilot_msg_gen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
