@@ -40,6 +40,7 @@ repositories {
 
 dependencies {
     compile project(':autopilot_driver')
+    compile project(':autopilot_msg_gen')
     compile 'org.ros.android_core:android_gingerbread_mr1:0.1.+'
     compile 'org.ros.rosjava_core:rosjava:0.1.+'
 }
