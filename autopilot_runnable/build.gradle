@@ -31,6 +31,20 @@ dependencies {
 }
 */
 
+
+repositories {
+    maven {
+        url 'https://github.com/rosjava/rosjava_mvn_repo/raw/master'
+    }
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':autopilot_driver_ros')
+    compile 'org.ros.android_core:android_gingerbread_mr1:0.1.+'
+    compile 'org.ros.rosjava_core:rosjava:0.1.+'
+}
+
 apply plugin: 'android'
 
 android {

@@ -8,7 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/autopilot_driver_ros/autopilot_driver_ros.iml" filepath="$PROJECT_DIR$/autopilot_driver_ros/autopilot_driver_ros.iml" />
       <module fileurl="file://$PROJECT_DIR$/autopilot_msg/autopilot_msg.iml" filepath="$PROJECT_DIR$/autopilot_msg/autopilot_msg.iml" />
       <module fileurl="file://$PROJECT_DIR$/autopilot_msg_gen/autopilot_msg_gen.iml" filepath="$PROJECT_DIR$/autopilot_msg_gen/autopilot_msg_gen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/autopilot_publisher/autopilot_publisher.iml" filepath="$PROJECT_DIR$/autopilot_publisher/autopilot_publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autopilot_runnable/autopilot_runnable.iml" filepath="$PROJECT_DIR$/autopilot_runnable/autopilot_runnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/autopilot_test_gui/autopilot_test_gui.iml" filepath="$PROJECT_DIR$/autopilot_test_gui/autopilot_test_gui.iml" />
       <module fileurl="file://$PROJECT_DIR$/autopilot_test_movement/autopilot_test_movement.iml" filepath="$PROJECT_DIR$/autopilot_test_movement/autopilot_test_movement.iml" />
       <module fileurl="file://$PROJECT_DIR$/autopilot_ultrasound/autopilot_ultrasound.iml" filepath="$PROJECT_DIR$/autopilot_ultrasound/autopilot_ultrasound.iml" />
