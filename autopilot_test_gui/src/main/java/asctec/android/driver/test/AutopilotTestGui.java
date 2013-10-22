@@ -12,6 +12,9 @@ import java.util.HashMap;
 
 import autopilot.driver.AsctecDriver;
 
+/**
+ * Test for the driver without ROS.
+ */
 public class AutopilotTestGui extends Activity
 {
     /**
