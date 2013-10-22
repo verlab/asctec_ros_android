@@ -27,12 +27,21 @@
 dependencies {
   compile project(':local_android_library_dependency')
   compile 'org.ros.android_core:android_gingerbread_mr1:0.1.+'
-  compile 'com.github.ros_java.android_extras:gingerbread:0.1.+'
+  compile 'org.ros.android_core:android_gingerbread_mr1:0.1.+'
 }
 */
+
+repositories {
+    maven {
+        url 'https://github.com/rosjava/rosjava_mvn_repo/raw/master'
+    }
+    mavenCentral()
+}
+
 dependencies {
     compile project(':autopilot_driver')
     compile 'org.ros.android_core:android_gingerbread_mr1:0.1.+'
+    compile 'org.ros.rosjava_core:rosjava:0.1.+'
 }
 
 
